@@ -1,0 +1,26 @@
+.btn-primary {
+    color: #fff;
+    background-color: #cc9145;
+    border-color: #cc9145;
+}
+.btn-primary:hover {
+    color: #cc9145;
+    background-color: #fff;
+    border-color: #cc9145;
+}
+.btn-outline-primary {
+    color: #cc9145;
+    border-color: #cc9145;
+}
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #cc9145;
+    border-color: #cc9145;
+}
+.border-primary {
+    border-color: #cc9145!important;
+}
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: #cc9145!important;
+}
